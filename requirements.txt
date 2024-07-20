@@ -1,0 +1,6 @@
+PyVISA==1.12.0
+PyVISA-py==0.5.3
+matplotlib
+pyusb==1.2.1
+numpy<2.0.0
+scipy>=1.7.0
